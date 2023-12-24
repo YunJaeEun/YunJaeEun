@@ -10,34 +10,24 @@
   </em>  
 </p>
 
-![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=Kinetic27&show_icons=true)
-[![Kinetic27's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kinetic27&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kinetic27)
+![yunjaeeun's github stats](https://github-readme-stats.vercel.app/api?username=yunjaeeeun7&show_icons=true)
+[![yunjaeeun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjaeeun&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kinetic27)
     
     
 ### Online Judge 💻
 
-* BOJ: [Kinetic27](http://icpc.me/kinetic27)
-  * solvedac: [Kinetic27](https://solved.ac/profile/kinetic27)
+  * solvedac: [wodms6199](https://solved.ac/profile/wodms6199)
   
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kinetic27)](https://solved.ac/kinetic27)
-
-<!--
-### Project ⚡
-
-* Development Diary Blog([blog](https://kinetic27.github.io))
-* [Unknown to Wellknown](https://github.com/justiceHui/Unknown-To-Wellknown): Advanced Algorithm Introduction
-* [814Solver](https://github.com/kimjg1119/814Solver): [BOJ 18789 814-2](https://www.acmicpc.net/problem/18789) solver using Genetic Algorithm
--->
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wodms6199)](https://solved.ac/wodms6199)
 
 ### Contacts 📫
 
 * Github Repo Issue 
-* Twitter DM: @dev_kinetic
-* Email: aheui@kakao.com
+* Email: yunjaeeun12@naver.com
 
   <!--<div align=center>-->
   
-[![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://kinetic27.github.io/)](https://kinetic27.github.io/) 
+[![My Notion Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://yunjaeeun.github.io/)](https://kinetic27.github.io/) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dev_kinetic?label=Follow%20me&style=social)](https://twitter.com/dev_kinetic)
 
   
