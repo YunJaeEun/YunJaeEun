@@ -24,8 +24,8 @@
 
   <!--<div align=center>-->
   
-[![My Notion Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://yunjaeeun.github.io/)](https://kinetic27.github.io/) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/dev_kinetic?label=Follow%20me&style=social)](https://twitter.com/dev_kinetic)
+[![My Notion Badge](https://img.shields.io/badge/build-Link-brightgreen?style=Notion&logo=Notion&logoColor=black&label=Notion&labelColor=white&color=white&link=https%3A%2F%2Fwww.notion.so%2FHOME-d94dfeed6198448da1e04908329dc961%3Fpvs%3D4)
+
 
   
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
