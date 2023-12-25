@@ -13,7 +13,7 @@
     
 ### Online Judge 💻
 
-  * solvedac: [wodms6199](https://solved.ac/profile/wodms6199)
+  * solved.ac: [wodms6199](https://solved.ac/profile/wodms6199)
   
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wodms6199)](https://solved.ac/wodms6199)
 
