@@ -13,18 +13,18 @@
 
     
 ### Online Judge 💻
-
+---
   * solved.ac: [wodms6199](https://solved.ac/profile/wodms6199)
   
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wodms6199)](https://solved.ac/wodms6199)
 
 ### Contacts 📫
-
+---
 * Github Repo Issue 
 * Email: yunjaeeun12@naver.com
 
   <!--<div align=center>-->
-  
+---  
 ![Static Badge](https://img.shields.io/badge/Notion-%23000000?style=Notion&logo=Notion&logoColor=black&labelColor=white&color=white&link=https%3A%2F%2Fwww.notion.so%2FHOME-d94dfeed6198448da1e04908329dc961%3Fpvs%3D4)
   
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
