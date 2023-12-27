@@ -3,6 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=yunjaeeun's%20Github&fontSize=40)
 
 ### Github stats 💻
+---
 ![yunjaeeun's github stats](https://github-readme-stats.vercel.app/api?username=yunjaeeun&show_icons=true)
 <p>
   <em>
