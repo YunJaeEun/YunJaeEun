@@ -23,8 +23,7 @@
 * Github Repo Issue 
 * Email: yunjaeeun12@naver.com
 
-  <!--<div align=center>-->
-![KakaoTalk_20240108_162719643](https://github.com/yunjaeeun/yunjaeeun/assets/153914718/0ab7bf64-9d54-4ae4-a49a-397ecf75195b)
+  <!--<div align=center>--
 
 ![Static Badge](https://img.shields.io/badge/Notion-%23000000?style=Notion&logo=Notion&logoColor=black&labelColor=white&color=white&link=https%3A%2F%2Fwww.notion.so%2FHOME-d94dfeed6198448da1e04908329dc961%3Fpvs%3D4)
   
