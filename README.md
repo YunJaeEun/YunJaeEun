@@ -11,7 +11,6 @@
   </em>  
 </p>
 
-![Uploading 842a63e0-ed95-4eea-a4f9-8532c5288864.gif…]()
 
     
 ### Online Judge 💻
