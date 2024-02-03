@@ -4,7 +4,7 @@
 
 ### Github stats 💻
 ---
-![yunjaeeun's github stats](https://github-readme-stats.vercel.app/api?username=yunjaeeun&show_icons=true)
+![jaeeun's github stats](https://github-readme-stats.vercel.app/api?username=yunjaeeun&show_icons=true)
 <p>
   <em>
 
