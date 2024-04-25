@@ -19,7 +19,7 @@
   
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wodms6199)](https://solved.ac/wodms6199)
 
-# 기술 스택
+### 기술 스택
 ---
 | SpringBoot | MariaDB | Spring Data JPA | Jenkins | Kubernetes | Docker | ngrok |
 | --- | --- | --- | --- | --- | --- | --- |
