@@ -13,7 +13,7 @@
 
 
     
-### Online Judge 💻
+### Online Judge
 ---
   * solved.ac: [wodms6199](https://solved.ac/profile/wodms6199)
   
