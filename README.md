@@ -1,12 +1,24 @@
-# yunjaeeun&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/sans.gif" width="30" height="30%"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKinetic27%2FKinetic27)](https://hits.seeyoufarm.com) 
+<div align="middle">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=jaeeun's%20GitHub&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=81BEF7&fontColor=0000FF&height=200&section=header&text=Jaeeun's%20github&fontSize=80)
+
+## 💻 My Stats 💻
+
+![Jaeeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunjaeeun&show_icons=true&theme=transparent )
+
+## 💡 My Most Used Languages 💡 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjaeeun&title_color=0000FF&text_color=088A85&bg_color=000000&layout=compact)
+
+</div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Spring_Data_JPA-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />&nbsp
+  
+  <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
+  
 </div>
 
 <div align="center">
@@ -37,27 +49,12 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
+<div align="center">  
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-
+  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
 
 <br>
-
----
-
-### Github stats 💻
----
-<div align="center>
-  
-<a align = "center">![Jaeeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunjaeeun&show_icons=true&theme=radical) </a>
-  
-</div>
-
-
-<a href="https://github.com/yunjaeeun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunjaeeun&layout=compact&theme=nord&hide_border=true" /></a>
 
 ### Contacts 📫
 ---
