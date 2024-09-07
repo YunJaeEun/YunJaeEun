@@ -58,7 +58,6 @@
 
 ### Contacts 📫
 ---
-* Github Repo Issue 
 * Email: yunjaeeun12@naver.com
 
   <!--<div align=center>--
