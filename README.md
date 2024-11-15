@@ -7,7 +7,11 @@
 ![Jaeeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunjaeeun&show_icons=true&theme=transparent )
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{yunjaeeun}"/>
+<img
+  src="https://render.gitanimals.org/farms/yunjaeeun"
+  width="600"
+  height="300"
+/>
 </a>
 
 ## 💡 My Most Used Languages 💡 
