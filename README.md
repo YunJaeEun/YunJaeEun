@@ -6,6 +6,10 @@
 
 ![Jaeeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunjaeeun&show_icons=true&theme=transparent )
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{yunjaeeun}?pet-id=1" width="1000" height="120"/>
+</a>
+
 ## 💡 My Most Used Languages 💡 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunjaeeun&title_color=0000FF&text_color=088A85&bg_color=000000&layout=compact)
