@@ -3,9 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=81BEF7&fontColor=0000FF&height=200&section=header&text=Jaeeun's%20github&fontSize=80)
 
 ## 💻 My Stats 💻
-
-![Jaeeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunjaeeun&show_icons=true&theme=transparent )
-
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/yunjaeeun"
