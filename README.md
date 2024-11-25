@@ -1,6 +1,6 @@
 <div align="middle">
 
-![header](https://capsule-render.vercel.app/api?type=Venom&color=81BEF7&fontColor=0000FF&height=200&section=header&text=Welcome Jaeeun's%20github&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=81BEF7&fontColor=0000FF&height=200&section=header&text=Jaeeun's%20github&fontSize=80)
 
 ## 💻 My Stats 💻
 <a href="https://github.com/devxb/gitanimals">
